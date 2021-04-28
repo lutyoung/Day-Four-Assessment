@@ -1,0 +1,16 @@
+C:\Users\Laptop City\clhass\substring\bin\Debug\net5.0\substring.exe
+C:\Users\Laptop City\clhass\substring\bin\Debug\net5.0\substring.deps.json
+C:\Users\Laptop City\clhass\substring\bin\Debug\net5.0\substring.runtimeconfig.json
+C:\Users\Laptop City\clhass\substring\bin\Debug\net5.0\substring.runtimeconfig.dev.json
+C:\Users\Laptop City\clhass\substring\bin\Debug\net5.0\substring.dll
+C:\Users\Laptop City\clhass\substring\bin\Debug\net5.0\ref\substring.dll
+C:\Users\Laptop City\clhass\substring\bin\Debug\net5.0\substring.pdb
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\substring.csprojAssemblyReference.cache
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\substring.AssemblyInfoInputs.cache
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\substring.AssemblyInfo.cs
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\substring.csproj.CoreCompileInputs.cache
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\substring.dll
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\ref\substring.dll
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\substring.pdb
+C:\Users\Laptop City\clhass\substring\obj\Debug\net5.0\substring.genruntimeconfig.cache

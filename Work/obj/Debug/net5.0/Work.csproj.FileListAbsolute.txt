@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Work\bin\Debug\net5.0\Work.exe
+C:\Users\user\source\repos\Work\bin\Debug\net5.0\Work.deps.json
+C:\Users\user\source\repos\Work\bin\Debug\net5.0\Work.runtimeconfig.json
+C:\Users\user\source\repos\Work\bin\Debug\net5.0\Work.runtimeconfig.dev.json
+C:\Users\user\source\repos\Work\bin\Debug\net5.0\Work.dll
+C:\Users\user\source\repos\Work\bin\Debug\net5.0\ref\Work.dll
+C:\Users\user\source\repos\Work\bin\Debug\net5.0\Work.pdb
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\Work.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\Work.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\Work.AssemblyInfo.cs
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\Work.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\Work.dll
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\ref\Work.dll
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\Work.pdb
+C:\Users\user\source\repos\Work\obj\Debug\net5.0\Work.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Laptop City\clhass\substring\investment\bin\Debug\net5.0\investment.exe
+C:\Users\Laptop City\clhass\substring\investment\bin\Debug\net5.0\investment.deps.json
+C:\Users\Laptop City\clhass\substring\investment\bin\Debug\net5.0\investment.runtimeconfig.json
+C:\Users\Laptop City\clhass\substring\investment\bin\Debug\net5.0\investment.runtimeconfig.dev.json
+C:\Users\Laptop City\clhass\substring\investment\bin\Debug\net5.0\investment.dll
+C:\Users\Laptop City\clhass\substring\investment\bin\Debug\net5.0\ref\investment.dll
+C:\Users\Laptop City\clhass\substring\investment\bin\Debug\net5.0\investment.pdb
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\investment.csprojAssemblyReference.cache
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\investment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\investment.AssemblyInfoInputs.cache
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\investment.AssemblyInfo.cs
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\investment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\investment.dll
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\ref\investment.dll
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\investment.pdb
+C:\Users\Laptop City\clhass\substring\investment\obj\Debug\net5.0\investment.genruntimeconfig.cache

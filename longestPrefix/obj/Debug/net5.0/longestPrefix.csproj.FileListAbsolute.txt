@@ -1,0 +1,16 @@
+C:\Users\Laptop City\clhass\longestPrefix\bin\Debug\net5.0\longestPrefix.exe
+C:\Users\Laptop City\clhass\longestPrefix\bin\Debug\net5.0\longestPrefix.deps.json
+C:\Users\Laptop City\clhass\longestPrefix\bin\Debug\net5.0\longestPrefix.runtimeconfig.json
+C:\Users\Laptop City\clhass\longestPrefix\bin\Debug\net5.0\longestPrefix.runtimeconfig.dev.json
+C:\Users\Laptop City\clhass\longestPrefix\bin\Debug\net5.0\longestPrefix.dll
+C:\Users\Laptop City\clhass\longestPrefix\bin\Debug\net5.0\ref\longestPrefix.dll
+C:\Users\Laptop City\clhass\longestPrefix\bin\Debug\net5.0\longestPrefix.pdb
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\longestPrefix.csprojAssemblyReference.cache
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\longestPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\longestPrefix.AssemblyInfoInputs.cache
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\longestPrefix.AssemblyInfo.cs
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\longestPrefix.csproj.CoreCompileInputs.cache
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\longestPrefix.dll
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\ref\longestPrefix.dll
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\longestPrefix.pdb
+C:\Users\Laptop City\clhass\longestPrefix\obj\Debug\net5.0\longestPrefix.genruntimeconfig.cache
